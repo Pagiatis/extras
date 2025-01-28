@@ -5,4 +5,4 @@
 
 ![](amaya-web-editor.md){.figure}
 
-bbbbbb
+bbbbbb (v2)
